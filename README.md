@@ -5,6 +5,7 @@ This Repository is home to all files required for learning of foundational princ
 ## REQUIREMENTS
 
 ### GENERAL
+
 	->	Allowed editors:
 			vi, vim, emacs
 	->	All files will be compiled on:
@@ -24,10 +25,8 @@ This Repository is home to all files required for learning of foundational princ
 	->	All header files should be include guarded
 
 ## MORE INFO
-
 ### DATA STRUCTURES
 The following data structures and types are in use for binary trees.
-
 ### BASIC BINARY TREE
 
 	/**
@@ -50,7 +49,6 @@ The following data structures and types are in use for binary trees.
 	
 ### BINARY SEARCH TREE
 	typedef struct binary_tree_s bst_t;
-
 ### AVL TREE
 	typedef struct binary_tree_s avl_t;
 ### MAX BINARY HEAP
