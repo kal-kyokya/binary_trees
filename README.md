@@ -6,7 +6,6 @@ This Repository is home to all files required for learning of foundational princ
 
 ### General
 
-"""
 	Allowed editors: vi, vim, emacs
 	All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
 	All your files should end with a new line
@@ -19,4 +18,3 @@ This Repository is home to all files required for learning of foundational princ
 	The prototypes of all your functions should be included in your header file called binary_trees.h
 	Don’t forget to push your header file
 	All your header files should be include guarded
-"""
