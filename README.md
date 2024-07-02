@@ -5,7 +5,6 @@ This Repository is home to all files required for learning of foundational princ
 ## REQUIREMENTS
 
 ### GENERAL
-
 	->	Allowed editors:
 			vi, vim, emacs
 	->	All files will be compiled on:
